@@ -2,8 +2,7 @@
 
 # predictive-model-example
 
-Basic example of a predictive model, to interact with clients and show potential impact.
-
+Basic example of predictive models, to show clients an example how they can deliver impact.
 
 ## Jupyter Notebook with the example
 
