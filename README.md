@@ -7,7 +7,7 @@ Basic example of a predictive model, to interact with clients and show potential
 
 ## Jupyter Notebook with the example
 
-[Notebook](https://github.com/matheus695p/predictive-model-example/blob/main/basic_example_of_a_predictive_model.ipynbb)
+[Notebook](https://github.com/matheus695p/predictive-model-example/blob/main/basic_example_of_a_predictive_model.ipynb)
 
 ## Environment setup
 
