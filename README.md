@@ -6,7 +6,7 @@ Basic example of predictive models, to show clients an example how they can deli
 
 ## Jupyter Notebook with the example
 
-[Notebook](https://github.com/matheus695p/predictive-model-example/blob/main/basic_example_of_a_predictive_model.ipynb)
+[Notebook](https://github.com/matheus695p/predictive-model-example/blob/main/simplified_version_example.ipynb)
 
 ## Environment setup
 
